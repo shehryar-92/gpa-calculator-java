@@ -4,7 +4,9 @@ A desktop GPA calculator with a switchable grading scale and one-click PDF expor
 
 ## Features
 - Table-based course entry: name, credit hours, letter grade
-- Two grading scales, switchable at any time: an original scale and a standard US +/- scale
+- Two grading scales, switchable at any time:
+       a standard US scale +/- (e.g A+, A ,A-, B+ , B .....)
+       a non-standard scale (e.g A+, A , B+ , B .....)
 - Live GPA calculation
 - Export the current course list and GPA to a formatted PDF report
 
